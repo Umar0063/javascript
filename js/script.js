@@ -37,7 +37,7 @@ if (1) {
 
 // num === 50 ? console.log("ok") : console.log("Error");
 
-// const num = 51;
+const num = 51;
 
 // switch (num) {
 //     case 49:
